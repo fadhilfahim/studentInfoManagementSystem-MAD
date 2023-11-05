@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StudentManagmentSystem</string>
+    <string name="heading">Students Details</string>
+
+    <string name="listbtn">List</string>
+    <string name="addBtn">Add </string>
+    <string name="nameHead">Name</string>
+    <string name="idhead">ID</string>
+    <string name="numHead">Number</string>
+    <string name="appHeading">"Student\nInformation managment system "</string>
+
+    <!--    home page -->
+    <string name="homeAdd">Add new Student</string>
+    <string name="homeList">View All Students</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
